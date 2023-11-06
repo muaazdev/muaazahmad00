@@ -1,5 +1,5 @@
 # 💫 About Me:
-An AI Enthusiast, teaching machines how to be ~not~ human! ;)
+An AI Enthusiast, teaching machines how to be ~not~ human. ;)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/w4PnF4RW) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muaazdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muaazdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muaazdev) [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=Medium&logoColor=white)](https://medium.com/@muaazdev)
